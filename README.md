@@ -58,9 +58,11 @@ Batch size: 32
 
 **RESULTS**
 
-Test loss: 0.049240052700042725 
+Train_accuracy: 0.9977 = 99,7%
 
-Test accuracy: 0.9890754222869873 (98,90%)
+Val_accuracy: 9858 = 98,58%
+
+Test_accuracy: 0.9896055459976196 = 98,96%
 
 
 **VALIDATION**
