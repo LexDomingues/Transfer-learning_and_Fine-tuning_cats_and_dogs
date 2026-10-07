@@ -74,3 +74,6 @@ Test_accuracy: 0.9896055459976196 = 98,96%
 The dataset used for fine-tuning was the same one used for transfer learning.
 
 The model initially trained using transfer learning achieved 98.91% accuracy on the test set. After fine-tuning, the accuracy was 98.72%. In this case, fine-tuning did not yield a performance improvement, demonstrating that its application does not always result in better outcomes.
+
+![Gráfico de validação](https://github.com/user-attachments/assets/6ff8c93f-0daa-4a91-a484-e4d96ac68a05)
+
